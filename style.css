@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+}
+
+p{
+    margin-left: 10px;
+    color: rgb(192, 190, 190);
+}
+
+#practice{
+    background-color: brown;
+    width: 600px;
+    height: 50vh;
+    margin: 0 auto;
+    margin-top: 80px;
+}
